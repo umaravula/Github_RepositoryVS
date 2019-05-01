@@ -12,6 +12,7 @@ namespace GitDemoVS
         {
             //Code changed in local
             //Code changed at Server
+            //Code changed at server to use pull option
         }
     }
 }
